@@ -8,7 +8,7 @@ AI-powered development platform that lets you create web applications by chattin
 - 💻 Real-time Next.js application development in E2B sandboxes
 - 🔄 Live preview & code preview with split-pane interface
 - 📁 File explorer with syntax highlighting and code theme
-- 💬 Conversational project development with message history
+- 💬 Conversational projeyct development with message history
 - 🎯 Smart usage tracking and rate limiting
 - 💳 Subscription management with pro features
 - 🔐 Authentication with Clerk
